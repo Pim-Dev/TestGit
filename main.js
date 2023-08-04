@@ -1,4 +1,4 @@
-console.log("Pam")
+console.log("Pim")
 console.log(
-    "1222121"
+    "Hello"
 )
